@@ -1,0 +1,1 @@
+# This file makes scr.app a Python package

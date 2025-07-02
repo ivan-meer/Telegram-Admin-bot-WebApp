@@ -1,0 +1,1 @@
+# This file makes scr.bot a Python package
